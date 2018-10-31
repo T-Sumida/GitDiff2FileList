@@ -1,0 +1,2 @@
+# GitDiff2FileList
+指定されたディレクトリのgit diffをとり、そこから変更ファイルリストを作成する
