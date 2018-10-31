@@ -10,4 +10,4 @@ GitDiff2FileList.shに参照したいディレクトリのパスを記入し、G
 Ubuntu 14.04
 
 #License
-Copyright © 2018 T_Sumida Distributed under the MIT License.
+Copyright © 2018 Sum Distributed under the MIT License.
